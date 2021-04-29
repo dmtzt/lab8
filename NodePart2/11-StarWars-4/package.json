@@ -1,0 +1,15 @@
+{
+  "name": "11-StarWars-4",
+  "version": "1.0.0",
+  "description": "* `server4.js`",
+  "main": "server4.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "13-StarWars-6",
+  "version": "1.0.0",
+  "description": "* `server6.js`",
+  "main": "server6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
